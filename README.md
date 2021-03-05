@@ -3,7 +3,7 @@
 2. Results
 - In 2017, the only stock with a negative return% is TERP. In 2018, the stock market is doing worse compared to the previous year.
 - The speed of the refractored codes are faster than the original.
-- 
+
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/VBA_Challenge_2017.JPG)
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/VBA_Challenge_2018.JPG)
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/Timer2017.JPG)
