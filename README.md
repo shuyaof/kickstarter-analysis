@@ -10,5 +10,5 @@
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/Timer2018.JPG)
 
 # 3. Summary
-- 1. The original codes are shorter, but the refractored version is faster.  
-- 2. The rewritten codes makes it run faster because added if statement, which the codes dont have to go through all the lines. 
+- The original codes are shorter, but the refractored version is faster.  
+- The rewritten codes makes it run faster because added if statement, which the codes dont have to go through all the lines. 
