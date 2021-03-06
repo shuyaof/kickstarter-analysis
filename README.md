@@ -9,7 +9,7 @@
 
 # 3. Summary
 - The original codes are shorter, but the refractored version is faster.  
-- The nested if statement will make the codes go through loops, which is slower then two seperate loops. 
+- The nested for loops will make the codes go within loops, which is slower then two seperate for loops. 
 
 ![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017_timer.JPG "2017_timer")
 ![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2018_timer.JPG "2018_timer")
