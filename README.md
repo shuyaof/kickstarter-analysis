@@ -6,8 +6,8 @@
 
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/VBA_Challenge_2017.JPG)
 ![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/VBA_Challenge_2018.JPG)
-![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/Timer2017.JPG)
-![alt text](https://github.com/shuyaof/kickstarter-analysis/blob/main/Timer2018.JPG)
+![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017_R.JPG"2017_R)
+![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2018_R.JPG"2018_R)
 
 # 3. Summary
 - The original codes are shorter, but the refractored version is faster.  
