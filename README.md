@@ -10,7 +10,5 @@
 # 3. Summary
 - The original codes are shorter, but the refractored version is faster.  
 - The rewritten codes makes it run faster because added if statement, which the codes dont have to go through all the lines. 
-![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017_R.JPG "2017_R")
-![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017.JPG "2017")
-![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2018_R.JPG "2018_R")
-![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017.JPG "2017")
+![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2017_timer.JPG "2017_timer")
+![alt text](https://github.com/shuyaof/VBA_Challenge/blob/main/2018_timer.JPG "2018_timer")
